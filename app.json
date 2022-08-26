@@ -1,5 +1,5 @@
 {
-    "name": "📥📥AUTO POWER FILTER BOT📥📥",
+    "name": "Ⓜ️Ⓜ️AUTO POWER FILTER Ⓜ️Ⓜ️BOT WWWⓂ️Ⓜ️",
     "description": "When you going to send file on telegram channel this bot will save that in database, So you can search that easily in inline mode",
     "keywords": [
       "telegram",
@@ -14,8 +14,8 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/zmraj/POWER-Filter-BOT.git",
-    "repository": "https://github.com/zmraj/POWER-Filter-BOT.git",
+    "website": "https://github.com/SAmkazx/Auto-filterZWWW",
+    "repository": "https://github.com/SAmkazx/Auto-filterZWWW",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
